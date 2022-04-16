@@ -12,19 +12,19 @@
 
 
 #EXTINF:-1 group-title="Intl" tvg-logo="" tvg-id="", Euronews Español
-https://stream-03.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa-uT3meGGG82OZw1KqPtW9ftRUTnGAS5sMh5M8jDbpyh)/dm/3/x2j7hpf/s/live-1.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa-uT3meGGG82OZw1KqPtW9ftRUTnGAS5sMh5M8jDbpyh)/dm/3/x2j7hpf/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="España" tvg-logo="" tvg-id="", Libertad Digital
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", BFM TV
-https://stream-01.nyc.dailymotion.com/sec(zKqaDcKKZmq-8nlEtRtUhXzVucQvBgy9AKpGXA8OeByZmlxhWA8AfxYOYv85FOWc)/dm/3/x5vngby/d/live-4.m3u8
+https://stream-02.nyc.dailymotion.com/sec(zKqaDcKKZmq-8nlEtRtUhXzVucQvBgy9AKpGXA8OeByZmlxhWA8AfxYOYv85FOWc)/dm/3/x5vngby/d/live-4.m3u8
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", La Chaîne L'Équipe
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", CNEWS
-https://stream-02.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOJVYx3d10IYBdIaWATLlHQI2bjDt-vYL77tRw4BTusdZ)/p/dm/3/x5idxxp/s/live-4.m3u8
+https://stream-01.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOJVYx3d10IYBdIaWATLlHQI2bjDt-vYL77tRw4BTusdZ)/p/dm/3/x5idxxp/s/live-4.m3u8
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", C8
 https://stream-04.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOOOW-tX5fqJu5VLTL_Qq5ACJIxuRtUC6nCkhWBUZVJWH)/p/dm/3/x5idx4k/d/live-4.m3u8
@@ -36,4 +36,4 @@ https://stream-01.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLRMnrhaPw8zhqogEF
 https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqgWl8IB_bhftmSsVp3jeGnRwOKAdiRhVFQ7AfNIIwqX)/dm/3/x828i6j/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="México" tvg-logo="" tvg-id="", Mexico Travel Channel
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXkprDnN2SIjTi1nY7T_VVXGcsX62TVPrunHeaxNE-5e)/dm/3/x7v76vf/s/live-1.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXkprDnN2SIjTi1nY7T_VVXGcsX62TVPrunHeaxNE-5e)/dm/3/x7v76vf/s/live-1.m3u8#cell=lnyc
