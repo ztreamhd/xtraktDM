@@ -36,8 +36,8 @@ jobs:
           ./autorun_github.sh
           #cd scripts
           #python3 dailymotion_m3ugrabber.py > ../dailymotion.m3u
-          #python3 dailymotion_m3ugrabber.py "207.180.193.24:3128" > ../dailymotion-EU.m3u
-          #python3 dailymotion_m3ugrabber.py "104.248.150.190:3128" > ../dailymotion-SG.m3u
+          #python3 dailymotion_m3ugrabber.py "77.145.26.127" > ../dailymotion-EU.m3u
+          #python3 dailymotion_m3ugrabber.py "23.51.138.120" > ../dailymotion-SG.m3u
           echo "m3u grabbed"
         
       - name: git add
