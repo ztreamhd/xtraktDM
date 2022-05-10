@@ -12,13 +12,13 @@
 
 
 #EXTINF:-1 group-title="Intl" tvg-logo="" tvg-id="", Euronews Español
-https://stream-01.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCayV10tLAjWSi5rOT9ukq37DLjfkYDFuQ3vDoUiPEveDU)/dm/3/x2j7hpf/s/live-1.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCayV10tLAjWSi5rOT9ukq37DLjfkYDFuQ3vDoUiPEveDU)/dm/3/x2j7hpf/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="España" tvg-logo="" tvg-id="", Libertad Digital
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", BFM TV
-https://stream-04.nyc.dailymotion.com/sec(zKqaDcKKZmq-8nlEtRtUheztDI8cUCdlAHBXR98MZzKJMfzZxtcNmq2bSdG5TXoY)/dm/3/x5vngby/d/live-4.m3u8
+https://stream-01.nyc.dailymotion.com/sec(zKqaDcKKZmq-8nlEtRtUheztDI8cUCdlAHBXR98MZzKJMfzZxtcNmq2bSdG5TXoY)/dm/3/x5vngby/d/live-4.m3u8
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", La Chaîne L'Équipe
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
@@ -33,10 +33,10 @@ https://stream-01.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOBVahPHzl2zNC1hF5E
 https://stream-01.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOCRr4kQ3lIsfxki-qVYbNG-wXBUJPw2fkr9v_l-zuN39)/p/dm/3/x5idy49/d/live-4.m3u8
 
 #EXTINF:-1 group-title="Venezuela" tvg-logo="" tvg-id="", Venezolana de Televisión
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLn6EPliy0r_YU8GLnNS18HV7lfee44UvMvm5b4NVxR8k)/dm/3/x828i6j/s/live-3.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLn6EPliy0r_YU8GLnNS18HV7lfee44UvMvm5b4NVxR8k)/dm/3/x828i6j/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="México" tvg-logo="" tvg-id="", Mexico Travel Channel
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZdRqin3b27NBfCUcsat0sPU68MQwc5xO1AK1JBlrURmi)/dm/3/x7v76vf/s/live-1.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZdRqin3b27NBfCUcsat0sPU68MQwc5xO1AK1JBlrURmi)/dm/3/x7v76vf/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", RMC Story
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
