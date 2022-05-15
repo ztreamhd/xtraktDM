@@ -18,7 +18,7 @@ https://stream-01.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa1G53cVP2wJ45Qf4ME
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", BFM TV
-https://stream-01.nyc.dailymotion.com/sec(zKqaDcKKZmq-8nlEtRtUhfFHeh3Ck_-cD5OBbKQwTnLa-75_8H4eeMeaKuv4FglR)/dm/3/x5vngby/d/live-4.m3u8
+https://stream-02.nyc.dailymotion.com/sec(zKqaDcKKZmq-8nlEtRtUhfFHeh3Ck_-cD5OBbKQwTnLa-75_8H4eeMeaKuv4FglR)/dm/3/x5vngby/d/live-4.m3u8
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", La Chaîne L'Équipe
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
@@ -30,10 +30,10 @@ https://stream-04.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOFPiHEp6Zg1YvAnWa_
 https://stream-04.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOPPR_fi9GGHUrxIq5d6xYpdjKefkqyXGFNysOVl_6uQz)/p/dm/3/x5idx4k/d/live-4.m3u8
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", Canal + Clair
-https://stream-03.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgODjChBGdfYzaFCnPqQc4k7PgydKgsaExFlz9v6NKW7rC)/p/dm/3/x5idy49/d/live-4.m3u8
+https://stream-01.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgODjChBGdfYzaFCnPqQc4k7PgydKgsaExFlz9v6NKW7rC)/p/dm/3/x5idy49/d/live-4.m3u8
 
 #EXTINF:-1 group-title="Venezuela" tvg-logo="" tvg-id="", Venezolana de Televisión
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLk32oFIwqTxI6caXMe05hbT6BeH5ykjrt-EecyXTJHp2)/dm/3/x828i6j/s/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLk32oFIwqTxI6caXMe05hbT6BeH5ykjrt-EecyXTJHp2)/dm/3/x828i6j/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="México" tvg-logo="" tvg-id="", Mexico Travel Channel
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZeheBLFCSQesfuTChdcYqV86j-RNjQ6dNvFDA23tgm1K)/dm/3/x7v76vf/s/live-1.m3u8#cell=lnyc
