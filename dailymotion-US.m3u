@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Intl" tvg-logo="" tvg-id="", Euronews Español
-https://stream-04.sv4.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa-bbCJFy9g_UtfnpjilU1IB-MFNZHGoMa6Qiptd6mj87)/dm/3/x2j7hpf/s/live-1.m3u8#cell=lsv4
+https://stream-01.sv4.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa-bbCJFy9g_UtfnpjilU1IB-MFNZHGoMa6Qiptd6mj87)/dm/3/x2j7hpf/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="España" tvg-logo="" tvg-id="", Libertad Digital
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 https://stream-03.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOKCfznj1SA9AeMeTtArUClVTxllw-hZaYt9FEq63aEty)/p/dm/3/x5idxxp/s/live-4.m3u8
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", C8
-https://stream-04.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOB5OCR35ZPx2OJ3A85VDN2qH_7LB6hLDgt01hUXzeqfl)/p/dm/3/x5idx4k/d/live-4.m3u8
+https://stream-03.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOB5OCR35ZPx2OJ3A85VDN2qH_7LB6hLDgt01hUXzeqfl)/p/dm/3/x5idx4k/d/live-4.m3u8
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", Canal + Clair
 https://stream-04.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOHlrIMWXdnNUwnoGKPgexhJxbjw5BfBnqK_JBk8gaqfI)/p/dm/3/x5idy49/d/live-4.m3u8
