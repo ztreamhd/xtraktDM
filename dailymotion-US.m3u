@@ -27,13 +27,13 @@ https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 https://stream-02.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOFA-Gp1gg2trAml1ZgVIwNl_703LEwxrCVUxk-MVh7As)/p/dm/3/x5idxxp/s/live-4.m3u8
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", C8
-https://stream-01.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOF845KtmyC82SAepfE-kSBGuBSOFr0_ANVrdFMiFiupt)/p/dm/3/x5idx4k/d/live-4.m3u8
+https://stream-03.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOF845KtmyC82SAepfE-kSBGuBSOFr0_ANVrdFMiFiupt)/p/dm/3/x5idx4k/d/live-4.m3u8
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", Canal + Clair
-https://stream-02.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgODKy18SzP4m8HgoZMU9Teus6-ItbEek79JxV5bq4HyKo)/p/dm/3/x5idy49/d/live-4.m3u8
+https://stream-04.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgODKy18SzP4m8HgoZMU9Teus6-ItbEek79JxV5bq4HyKo)/p/dm/3/x5idy49/d/live-4.m3u8
 
 #EXTINF:-1 group-title="Venezuela" tvg-logo="" tvg-id="", Venezolana de Televisión
-https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhAqV8pSPO8vdPQEx8-485HBpILzvzt0ZavmWPMH4rnx)/dm/3/x828i6j/s/live-3.m3u8#cell=lsv4
+https://stream-01.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhAqV8pSPO8vdPQEx8-485HBpILzvzt0ZavmWPMH4rnx)/dm/3/x828i6j/s/live-3.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="México" tvg-logo="" tvg-id="", Mexico Travel Channel
 https://stream-02.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZb8sp-2A1ejg21pq0ev42HdRIg10BdgTmrvs6Yhuljw)/dm/3/x7v76vf/s/live-1.m3u8#cell=lsv4
@@ -42,4 +42,4 @@ https://stream-02.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZb8sp-2A1ejg21pq0
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", Franceinfo
-https://stream-02.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgODdk59MbBy-gxrbx8bMnvHShvyeWr71P_AjrpwS_n0LQ)/p/dm/3/x4rdeu6/d/live-3.m3u8#cell=lsv4
+https://stream-01.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgODdk59MbBy-gxrbx8bMnvHShvyeWr71P_AjrpwS_n0LQ)/p/dm/3/x4rdeu6/d/live-3.m3u8#cell=lsv4
