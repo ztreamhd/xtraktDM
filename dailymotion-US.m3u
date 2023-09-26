@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Intl" tvg-logo="" tvg-id="", Euronews Español
-https://stream-01.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaw3Vo2wfSabYGjn_Rk3D7zi-gnAks-jaOD-RDhpw4083)/dm/3/x2j7hpf/s/live-1.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa1b5L9iuwv_qaTXaj3r7r_sAzouEcybjB2BuL2UTW1Ia)/dm/3/x2j7hpf/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="España" tvg-logo="" tvg-id="", Libertad Digital
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
@@ -24,25 +24,25 @@ https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", CNEWS
-https://stream-01.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgODdyTljj58WtWUEDrKtO0pUIe_b2dwFRmZtybjonked1)/p/dm/3/x5idxxp/s/live-4.m3u8
+https://stream-03.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOHSr7nf7rO-n0nwUDwjRtpFFeczNh5C-Woxxp7Hbb4wH)/p/dm/3/x5idxxp/s/live-4.m3u8
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", C8
-https://stream-01.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOA62ktVCoWlVACuGBjgPhvNV08sy84bk93MTvhtSKYay)/p/dm/3/x5idx4k/d/live-4.m3u8
+https://stream-01.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOOs1hyxQs03py9I94U7737ksd49Y_-HuoWZskBZbchha)/p/dm/3/x5idx4k/d/live-4.m3u8
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", Canal + Clair
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 
 #EXTINF:-1 group-title="Venezuela" tvg-logo="" tvg-id="", Venezolana de Televisión
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLv2pID9OVhcGGCC2G5U76fYCrHVm_YuC4UiUyyNOGlk_)/dm/3/x828i6j/s/live-3.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLglmdfb5ShJyI5mbjMLhyWBym7qmm_AYKuTC13v6v7_-)/dm/3/x828i6j/s/live-3.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="México" tvg-logo="" tvg-id="", Mexico Travel Channel
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZfORleV4weGQ69_XHmCYarJ7aZsnBoMN_IFqMOsz4gFi)/dm/3/x7v76vf/s/live-1.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZagfXxoMpjdoof4YDaFGp63oNK9UyhwFU8z2ygHMQAp8)/dm/3/x7v76vf/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", RMC Story
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", Franceinfo
-https://stream-04.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOMli8Z580IhLtc1z3QPEoSGsQuI3Zgrq3awWXwIyYJpp)/p/dm/3/x4rdeu6/d/live-3.m3u8#cell=lnyc
+https://stream-03.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOByWBTa4KCv6_cthwIDECy4slZmPnlzOBBwNZ6J35ETQ)/p/dm/3/x4rdeu6/d/live-3.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="España" tvg-logo="" tvg-id="", Navarra Televisión
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
