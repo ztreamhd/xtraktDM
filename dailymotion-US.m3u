@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", CNEWS
-https://live.eu-north-1a.cf.dmcdn.net/sec2(KWOsYQx7C4jgSx8Af5-fUjQPoNjCDzi-FwCPEJMq9tdRaVrt7IpMoUo8JbH9GA2Qwxpm0-la-XbM0FN1rQ4fw0lT2gVHBwwSylqy2LiKsQcIFzvW6tnswYAG1AS4i_v5)/dm/3/x3b68jn/d/live-380.m3u8#cell=lcf-eu-north-1a
+https://live.eu-north-1a.cf.dmcdn.net/sec2(rD1yygxMgAoxWRCvcPlJ6IY9jAkxaJs8v1HahgQhBbj8pbrtKi-NY6J_055fF1CRZ2y1cWzlsJF3VfPuSLNnHz0614Z-5VAHq06BVeBULe6OdoJK-mjo3A9Fi-wnMWYA)/dm/3/x3b68jn/d/live-380.m3u8#cell=lcf-eu-north-1a
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", C8
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 
 #EXTINF:-1 group-title="Venezuela" tvg-logo="" tvg-id="", Venezolana de Televisión
-https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
+https://live.eu-north-1b.cf.dmcdn.net/sec2(jD5IOv5XNtrrAHCZH0mzeSvH7ZMvAV7JczpVOQxArDH5TcT_WrGFSfCxJAKH-6ffPUNmjzytBvZ38UI_44WSt4JOuSlY-h6qNki916D9e_m_w8qH4QT56fQv4y8evUN_)/dm/3/x930kre/d/live-380.m3u8#cell=lcf-eu-north-1b
 
 #EXTINF:-1 group-title="México" tvg-logo="" tvg-id="", Mexico Travel Channel
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
@@ -42,7 +42,13 @@ https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 
 #EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", Franceinfo
-https://live.eu-north-1a.cf.dmcdn.net/sec2(ilIXgcC-_85kkJTrczf8-bON8zWrGcvL3FoxlFKfMkZA250CpB_1cl9_V-Hj5waYmxiQaW1fvIxcyA8gnEJNAhwh3t9d__MEZKkkv20S-PcLacnKfdHKao-Z71DJ86ff)/dm/3/x4rdeu6/d/live-380.m3u8#cell=lcf-eu-north-1a
+https://live.eu-north-1a.cf.dmcdn.net/sec2(aXHdA9UZLc3cq6NXbxQ6bcszmRAhCprVOqO8lBHnEdHubghkBu44AfTPMpxggJb9_IUOF2JmfqNKt1x1MDm8h2TbIv0B4yqJj5nzvUvea0bLb76L2JRWbdJdLuLxkg0g)/dm/3/x4rdeu6/d/live-380.m3u8#cell=lcf-eu-north-1a
 
 #EXTINF:-1 group-title="España" tvg-logo="" tvg-id="", Navarra Televisión
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
+
+#EXTINF:-1 group-title="España" tvg-logo="" tvg-id="", 7tv La Rioja
+https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
+
+#EXTINF:-1 group-title="España" tvg-logo="" tvg-id="", Melilla TV
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(mE2MoPpzuhSo_EvwM7-hlX_d78_qlRmyn3yTj-srOsIsoiUMSUdLqYkGeRarRyMbcJl0KCUpIbDbV3vdla30t8XWKRwqIFp_bjlj1NrsbI0tB905nnoeqCp-652zxFn1)/cloud/3/x9jhjqk/s/live-1080.m3u8#cell=lcf2-eu-north-1b
